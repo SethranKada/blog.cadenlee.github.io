@@ -11,39 +11,27 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+  summary: "Self-hosts several services for personal use with the help of docker and docker-compose. Capable of doing basic docker tasks."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the main operating system. Capable of administering a basic linux server and understanding command-line utilities."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "Has experience with git-based development. Mostly, use Github."
 
-- name: C++
+- name: Rust
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Basic understanding of the Rust programming language, and actively learning more advanced techniques."
+
+- name: SQL
+  summary: "Has training and experience using and developing with SQL and SQL-like technologies. Specifically; MariaDB and SurrealDB."
+
+- name: Writing
+  summary: "Writes and edits short-stories in free time. Experienced in creating coherent story-lines and expressing complex thoughts in easily digestible language."
+
+- name: World-Building
+  summary: "Has extensive experience and a passion for world-building and related subjects. Especially in regards to fictional species design and philosophy."

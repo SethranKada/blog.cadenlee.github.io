@@ -17,14 +17,14 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of administering a basic linux server and understanding command-line utilities."
+  summary: "Uses as the main operating system. Capable of administering a basic linux server and understanding command-line utilities."
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Has experience with git-based development. Mostly, use Github."
 
 - name: Rust
-  logo: /images/sections/skills/c++.png
+  logo: /images/sections/skills/rust.svg
   summary: "Basic understanding of the Rust programming language, and actively learning more advanced techniques."
 
 - name: SQL

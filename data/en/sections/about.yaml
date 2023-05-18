@@ -15,7 +15,7 @@ designation: Author
   #url: "https://www.example.com"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I'm an author and armature programmer with hobbies ranging from world-building to disaster prepping. I enjoy researching decentralized social-networks and infrastructure like SSB and ipfs. I write cinematic narrative-driven short-stories in the psychological noir genre an emphasis on characters and interesting settings."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,31 +35,46 @@ socialLinks:
 #- name: Mastadon
   #icon: "fab fa-mastodon"
   #url: "#"
-  #rel: "me noopener"
+  #rel: "#"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/cadenlee-resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: soft-skill-indicator
-  name: Writing
+  name: Creative Writing
   percentage: 95
   color: blue
 
 - type: soft-skill-indicator
-  name: Programming
-  percentage: 25
+  name: Adaptation
+  percentage: 75
   color: yellow
 
 - type: soft-skill-indicator
-  name: Adaptation
-  percentage: 75
+  name: Programming
+  percentage: 50
+  color: orange
+
+- type: soft-skill-indicator
+  name: SQL
+  percentage: 50
+  color: blue
+
+- type: soft-skill-indicator
+  name: World Building
+  percentage: 85
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Copy Editing
+  percentage: 65
   color: orange
 
 # you can also provide color code instead of the color name

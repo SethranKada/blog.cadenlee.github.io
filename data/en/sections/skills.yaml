@@ -12,23 +12,19 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Docker
-  logo: /images/sections/skills/docker.svg
   summary: "Self-hosts several services for personal use with the help of docker and docker-compose. Capable of doing basic docker tasks."
 
 - name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Uses as the main operating system. Capable of administering a basic linux server and understanding command-line utilities."
+  summary: "Uses Linux as the main operating system. Capable of administering a basic linux server and understanding command-line utilities."
 
-- name: Git
-  logo: /images/sections/skills/git.png
+- name: Cashiering
   summary: "Has experience with git-based development. Mostly, use Github."
 
 - name: Rust
-  logo: /images/sections/skills/rust.svg
   summary: "Basic understanding of the Rust programming language, and actively learning more advanced techniques."
 
-- name: SQL
-  summary: "Has training and experience using and developing with SQL and SQL-like technologies. Specifically; MariaDB and SurrealDB."
+- name: Cleaning
+  summary: "Has experience assisting custodians and completing regular cleaning. Can sweep and mop floors. Can clean windows and counters. Can wash dishes."
 
 - name: Writing
   summary: "Writes and edits short-stories in free time. Experienced in creating coherent story-lines and expressing complex thoughts in easily digestible language."
@@ -37,7 +33,7 @@ skills:
   summary: "Has extensive experience and a passion for world-building and related subjects. Especially in regards to fictional species design and philosophy."
 
 - name: Customer Service
-  summary: "Experience working as a cashier in a small village. Highly adaptable to strange situations."
+  summary: "Experience working as a cashier in a small village. Highly adaptable to strange situations. Accustomed to interacting with the elderly"
 
 - name: Office Suite
   summary: "Has used and received training in multiple office suites capable of a range of tasks. Has used Google Docs / Spreadsheets, Microsoft Office, Obsidian, and standard Markdown files."

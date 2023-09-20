@@ -15,7 +15,7 @@ designation: Author
   #url: "https://www.example.com"
 
 # a summary about you
-summary: "I'm an author and armature programmer with hobbies ranging from world-building to disaster prepping. I enjoy researching decentralized social-networks and infrastructure like SSB and ipfs. I write cinematic narrative-driven short-stories in the psychological noir genre an emphasis on characters and interesting settings."
+summary: "I'm an author and amateur programmer with hobbies ranging from world-building to disaster prepping. I enjoy researching decentralized social-networks and infrastructure like SSB and ipfs. I write emotional short-stories in the sci-fi and fantasy genres with an emphasis on characters and worldbuilding."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -30,7 +30,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/caden-lee-b3aab917a"
+  url: "https://www.linkedin.com/in/cadenlee"
 
 #- name: Mastadon
   #icon: "fab fa-mastodon"
@@ -49,36 +49,30 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Creative Writing
-  percentage: 95
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Adaptation
-  percentage: 75
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Programming
-  percentage: 50
+  percentage: 100
   color: orange
 
 - type: soft-skill-indicator
-  name: SQL
-  percentage: 50
+  name: Time Management
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: World Building
-  percentage: 85
+  name: Customer Service
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Copy Editing
-  percentage: 65
+  percentage: 100
   color: orange
-
-# you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"

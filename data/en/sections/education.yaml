@@ -2,7 +2,7 @@
 section:
   name: Education
   id: education
-  template: sections/education-alt.html # Use "sections/education-alt.html for alternate template.
+  template: sections/education-alt.html
   enable: true
   weight: 4
   showOnNavbar: true
@@ -22,3 +22,11 @@ degrees:
   timeframe: 2020-2021
   institution:
     name: Winston High School
+    url: "https://winstonhigh.horizonsd.ca/"
+
+- name: 
+  icon: fa-school
+  timeframe: 2018-2020
+  institution:
+    name: Sturgeon Composite High School
+    url: "https://www.sturgeoncomp.ca/"

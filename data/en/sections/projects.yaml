@@ -4,7 +4,7 @@ section:
   id: projects
   enable: true
   weight: 5
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -13,11 +13,11 @@ buttons:
 - name: All
   filter: "all"
 - name: Professional
-  filter: "professional"
+  filter: "Professional"
 - name: Literary
   filter: "Literary"
 - name: Hobby
-  filter: "hobby"
+  filter: "Hobby"
 
 # your projects
 projects:
@@ -26,5 +26,14 @@ projects:
   timeline: "March 2018 - Present"
   repo: https://github.com/SethranKada/sethrankada.github.io
   summary: A professional blog and portfolio.
-  tags: ["professional", "web-development"]
+  tags: ["Professional", "Web-Development"]
 
+- name: Wildgrowth
+  role: Creator
+  summary: I'm experimenting with creating a small-scale social media app like Lemmy and Mastodon.
+  tags: ["Hobby", "programming", "UX Design", "Networking", "Web-Development"]
+
+- name: Outside
+  role: Author
+  summary: I'm writing a series of connected short-stories in a shared universe.
+  tags: ["Literary", "World-Building"]

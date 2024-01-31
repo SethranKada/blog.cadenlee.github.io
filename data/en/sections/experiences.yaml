@@ -14,7 +14,7 @@ experiences:
     name: Young Food Store.
     location: Young, Sask, Canada
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: A local grocer in the village of Young, Sask. 
   positions:
   - designation: Cashier
     start: Nov 2022
@@ -29,7 +29,7 @@ experiences:
     name: LANGDON CHAMBER OF COMMERCE (LDCC)
     url: "https://langdonchamber.ca/"
     location: Langdon, Alberta, Canada
-    overview: 
+    overview: A Non-proffit organization.
   positions:
   - designation: Intern
     start: Aug 2022

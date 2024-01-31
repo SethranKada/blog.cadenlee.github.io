@@ -26,14 +26,14 @@ projects:
   timeline: "March 2018 - Present"
   repo: https://github.com/SethranKada/sethrankada.github.io
   summary: A professional blog and portfolio.
-  tags: ["Professional", "Web-Development"]
+  tags: ["Professional", "Web-Development", "Programming"]
 
 - name: Wildgrowth
   role: Creator
   summary: I'm experimenting with creating a small-scale social media app like Lemmy and Mastodon.
-  tags: ["Hobby", "programming", "UX Design", "Networking", "Web-Development"]
+  tags: ["Hobby", "Programming", "UX Design", "Networking", "Web-Development"]
 
 - name: Outside
   role: Author
   summary: I'm writing a series of connected short-stories in a shared universe.
-  tags: ["Literary", "World-Building"]
+  tags: ["Literary", "World-Building", "Hobby"]
